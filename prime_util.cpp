@@ -4,7 +4,6 @@
 
 #include "prime_util.hpp"
 
-
 bool primeUtil::is_prime(unsigned int number) {
     if (number <= 1) {
         return false;
