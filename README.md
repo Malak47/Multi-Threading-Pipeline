@@ -104,6 +104,11 @@ Same random seed generates the same sequence of pseudo-random numbers.
 
 ---
 
+## ScreenShot
+![multiThreadedPipeline.png](multiThreadedPipeline.png)
+
+---
+
 ## Cleaning Up
 
 You can clean up the compiled files with the command:
@@ -113,5 +118,3 @@ make clean
 ```
 
 This will remove the executable and all .o files in the `objects` directory.
-
----
